@@ -3,7 +3,7 @@
 ![Tauri](https://img.shields.io/badge/Tauri-v2-blue?style=for-the-badge&logo=tauri)
 ![Rust](https://img.shields.io/badge/Rust-latest-orange?style=for-the-badge&logo=rust)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=for-the-badge&logo=javascript)
-![License](https://img.shields.io/badge/License-GPL--3.0-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey?style=for-the-badge)
 
 ## Project Description
 
